@@ -1,5 +1,3 @@
-Software Engineer & Data Scientist with 2+ years experience in web apps, APIs, and data analysis. Background in government & industry. Exploring AI/LLM tools.
-
 ## About Me
 Detail-oriented, adaptable, and solution-focused fullstack developer with 2+ years of experience in software development, application modernization, and data analysis. I bring experience from government, academic, and private-sector environments and enjoy tackling complex technical challenges. I am proactive, self-driven, and continuously learning — currently strengthening my AI and language skills.
 
