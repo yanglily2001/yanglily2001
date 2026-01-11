@@ -25,7 +25,7 @@ Detail-oriented, adaptable, and solution-focused fullstack developer with 2+ yea
 
 ## Professional Experience
 
-### **Fullstack Developer / Consultant – ImagineX AB, Sweden (2025)**
+### **Fullstack Developer / Consultant – Migyston Logistics Services AB, Sweden (2025)**
 - Built fullstack applications using MERN stack (MongoDB, Express, React, Node).
 - Developed another fullstack system with C#, ASP.NET Core, and Razor.
 - Learned fullstack design principles, UI patterns, and Figma-based styling.
