@@ -1,5 +1,5 @@
 ## About Me
-Detail-oriented, adaptable, and solution-focused fullstack developer with 2+ years of experience in software development, application modernization, and data analysis. I bring experience from government, academic, and private-sector environments and enjoy tackling complex technical challenges. I am proactive, self-driven, and continuously learning — currently strengthening my AI and language skills.
+Detail-oriented, adaptable, and solution-focused fullstack developer with 3+ years of experience in software development, application modernization, and data analysis. I bring experience from government, academic, and private-sector environments and enjoy tackling complex technical challenges. I am proactive, self-driven, and continuously learning — currently strengthening my AI and language skills.
 
 ## Tech Stack - What I Am Familiar With
 
@@ -7,23 +7,29 @@ Detail-oriented, adaptable, and solution-focused fullstack developer with 2+ yea
 `Python` `JavaScript` `TypeScript` `C#` `Java` `C/C++` `R` `SQL` `Bash` `MATLAB` `Solidity`
 
 ### Frameworks & Libraries
-`React` `Node.js` `Express` `ASP.NET Core` `Razor` `FastAPI` `Spring Boot`
+`React` `Node` `Express` `ASP.NET Core` `Razor` `FastAPI` `Spring Boot`
+
+### Databases
+`SQLite` `PostgreSQL` `MySQL` `MongoDB`
 
 ### Tools & Platforms
 `Docker` `Postman` `SharePoint` `PowerApps` `ArcGIS Pro` `QGIS` `Jira` `ActiveMQ`  
-`IntelliJ` `VS Code` `PyCharm` `DataGrip` `AWS` `SQLite` `PostgreSQL`
+`IntelliJ` `VS Code` `PyCharm` `DataGrip` `AWS` `Figma`
 
 ### Special Competencies
 `Fullstack Development` `Application Modernization`  
-`Data Analysis` `UI/UX Design (Figma)`  
-`GIS & Climate Data Processing`  
+`Data Analysis` `UI/UX Design` `GIS & Climate Data Processing`  
 
 ### AI & Productivity  
-`AI-assisted development` `Automation` `Prompt engineering` `LLM tooling`
+`AI-assisted development` `Prompt engineering` `LLM tooling` `CoPilot` `Cursor`
 
 ---
 
 ## Professional Experience
+
+### **Software Engineer – JLS Mailing Services (Jan 2026 – Present)**
+- Modernizing internal applications and business processes.
+- Working on data engineering and data mining to support operational and reporting needs.
 
 ### **Fullstack Developer / Consultant – Migyston Logistics Services AB, Sweden (2025)**
 - Built fullstack applications using MERN stack (MongoDB, Express, React, Node).
@@ -36,7 +42,7 @@ Detail-oriented, adaptable, and solution-focused fullstack developer with 2+ yea
 - Modernized SharePoint/Domino applications into Army 365 cloud environment.
 - Improved application performance across Microsoft Power Platform.
 
-### **Software Developer – United States Geological Survey (2023–2024)**
+### **Software Developer – U.S. Geological Survey (2023–2024)**
 - Analyzed climate and groundwater data for the Mississippi Alluvial Plain.
 - Processed PRISM raster climate datasets and converted formats to NetCDF.
 - Created plots, shapefiles, and automated processing scripts in Python.
